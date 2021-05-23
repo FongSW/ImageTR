@@ -15,9 +15,9 @@
 handcraft_based.ipynb จะมี 2 ส่วนหลักๆ คือ
    * Training - 
    * Testing - ใช้ K-Nearest Neighbors รู้จำภาพอักษร เมื่อ Run เสร็จจะแสดงการคำตอบในรูปแบบ Answer is [เลขของคลาสตัวอักษร]
- 
- 
-  กลุ่มเราใช้ K-Nearest Neighbors รู้จำภาพอักษร  จึงทำให้ข้อมูลไม่ต้อง Train ก่อน Test ข้อมูล
-วิธีรัน Code
+### วิธีการเปลี่ยนรูป Dataset
+   * ส่วนของ Training
+      ![image](https://user-images.githubusercontent.com/56358092/119254860-ec83dd80-bbe2-11eb-9946-d4b2ec035fd7.png)
+      
+   * ส่วนของ Testing
 
-เนื่องจากการรู้จำภาพใช้ 
