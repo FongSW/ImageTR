@@ -7,11 +7,15 @@
 4. นาย สิริปกรณ์ วรวสุนธรา 62070280
 ## Project 2: Handcraft _base :)
 ### วิธี Run Code
-
-
+  *python handcraft_based.ipynb*
+  
+  
+  
+  
+  
+  
+  
   กลุ่มเราใช้ K-Nearest Neighbors รู้จำภาพอักษร  จึงทำให้ข้อมูลไม่ต้อง Train ก่อน Test ข้อมูล
 วิธีรัน Code
 
 เนื่องจากการรู้จำภาพใช้ 
-
-Hello world
