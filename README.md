@@ -6,7 +6,6 @@
 3. นาย สมิทธิ์ เฉียบแหลม 62070276
 4. นาย สิริปกรณ์ วรวสุนธรา 62070280
 ## Project 2: Handcraft _base :)
-ลิงค์ของ Google Colab : https://colab.research.google.com/drive/1ZbsjPL_IInZrqsLBq82VhLtXQfzzgp23?usp=sharing
 ### วิธี Run Code
 ```
 handcraft_based.ipynb
@@ -39,7 +38,7 @@ learning_based.ipynb
   
 โดยในไฟล์ **learning_based.ipynb** จะมี 8 ส่วน 
    * **Import Library** : 
-      ทำการ import library ที่สำคัญต่อการทำงาน
+   *  ทำการ import library ที่สำคัญต่อการทำงาน
    * **Data Loader** : ทำการ Load dataset เข้ามาในระบบและปรับขนาดให้เป็น 128x128 (Gray scale)
    * **Training & Validating Set Generation** : ทำการแปลง format รูปภาพให้สามารถทำงานร่วมกับ pytorch และแบ่งข้อมูลสำหรับการสอน Model 90%
    * **CNN Model** : ในส่วนนี้จะเป็นส่วนของโครงสร้างการสกัดหา feature 
