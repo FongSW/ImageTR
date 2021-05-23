@@ -6,6 +6,7 @@
 3. นาย สมิทธิ์ เฉียบแหลม 62070276
 4. นาย สิริปกรณ์ วรวสุนธรา 62070280
 ## Project 2: Handcraft _base :)
+ลิงค์ของ Google Colab : https://colab.research.google.com/drive/1ZbsjPL_IInZrqsLBq82VhLtXQfzzgp23?usp=sharing
 ### วิธี Run Code
 ```
 handcraft_based.ipynb
