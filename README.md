@@ -10,10 +10,7 @@
 ```
   python handcraft_based.ipynb
 ```
-  
-  
-  
-  
+  ต้องเปิดด้วย Google Colab โดยสร้างเป็น Folder ใน Google Drive ที่เก็บตัวไฟล์ handcraft_based.ipynb และ Folder Tr ที่เป็น Training image ไว้ด้วยกัน
   
   
   กลุ่มเราใช้ K-Nearest Neighbors รู้จำภาพอักษร  จึงทำให้ข้อมูลไม่ต้อง Train ก่อน Test ข้อมูล
