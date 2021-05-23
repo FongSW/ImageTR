@@ -37,7 +37,8 @@ learning_based.ipynb
   ต้องเปิดด้วย **Google Colab** โดยสร้างเป็น Folder ใน **Google Drive** เพื่อเก็บตัวไฟล์ **learning_based.ipynb** และ Folder Tr ที่เป็น Training image ไว้ด้วยกันและทำการ Mount Google Colab กับ Google Drive ที่ทำการเก็บไฟล์ Project 3
   
 โดยในไฟล์ **learning_based.ipynb** จะมี 8 ส่วน 
-   * **Import Library** : ทำการ import library ที่สำคัญต่อการทำงาน
+   * **Import Library** : 
+      ทำการ import library ที่สำคัญต่อการทำงาน
    * **Data Loader** : ทำการ Load dataset เข้ามาในระบบและปรับขนาดให้เป็น 128x128 (Gray scale)
    * **Training & Validating Set Generation** : ทำการแปลง format รูปภาพให้สามารถทำงานร่วมกับ pytorch และแบ่งข้อมูลสำหรับการสอน Model 90%
    * **CNN Model** : ในส่วนนี้จะเป็นส่วนของโครงสร้างการสกัดหา feature 
