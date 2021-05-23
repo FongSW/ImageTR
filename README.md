@@ -38,15 +38,15 @@ learning_based.ipynb
   
 โดยในไฟล์ **learning_based.ipynb** จะมี 8 ส่วน 
    * **Import Library** : ทำการ import library ที่สำคัญต่อการทำงาน
-   * Data Loader : ทำการ Load dataset เข้ามาในระบบและปรับขนาดให้เป็น 128x128 (Gray scale)
-   * Training & Validating Set Generation: ทำการแปลง format รูปภาพให้สามารถทำงานร่วมกับ pytorch และแบ่งข้อมูลสำหรับการสอน Model 90%
-   * CNN Model : ในส่วนนี้จะเป็นส่วนของโครงสร้างการสกัดหา feature 
-   * Defining Learning Algorithm : วิธีการที่ใช้ในการจัดการกับค่าที่ Model คำนวนผิดพลาดเพื่อไปทำการใช้ต่อในส่วน backpropagation
-   * Training Model : ทำการ train model ให้เรียนรู้กับข้อมูล train data ที่แบ่งไว้ 90% โดยในส่วนนี้จัดทำการสอน model 25 ครั้ง
-   * Testing : ส่วนที่ใช้ทำการทดสอบความแม่นยำของข้อมูลที่ถูกแบ่งไว้ test 10%
-   * Executing Model with Testing Image : ในส่วนนี้จะใช้ในการพยากรณ์เคสใหม่ที่ถูกส่งเข้าาให้ model ทำการจำแนก
+   * **Data Loader** : ทำการ Load dataset เข้ามาในระบบและปรับขนาดให้เป็น 128x128 (Gray scale)
+   * **Training & Validating Set Generation** : ทำการแปลง format รูปภาพให้สามารถทำงานร่วมกับ pytorch และแบ่งข้อมูลสำหรับการสอน Model 90%
+   * **CNN Model** : ในส่วนนี้จะเป็นส่วนของโครงสร้างการสกัดหา feature 
+   * **Defining Learning Algorithm** : วิธีการที่ใช้ในการจัดการกับค่าที่ Model คำนวนผิดพลาดเพื่อไปทำการใช้ต่อในส่วน backpropagation
+   * **Training Model** : ทำการ train model ให้เรียนรู้กับข้อมูล train data ที่แบ่งไว้ 90% โดยในส่วนนี้จัดทำการสอน model 25 ครั้ง
+   * **Testing** : ส่วนที่ใช้ทำการทดสอบความแม่นยำของข้อมูลที่ถูกแบ่งไว้ test 10%
+   * **Executing Model with Testing Image** : ในส่วนนี้จะใช้ในการพยากรณ์เคสใหม่ที่ถูกส่งเข้าาให้ model ทำการจำแนก
 ### วิธีการเปลี่ยนรูป Dataset
-   * ส่วนของ Training
+   * ส่วนของ **Training**
       
       ![image](https://user-images.githubusercontent.com/57053814/119268046-4f916680-bc1b-11eb-9969-61df771f2ea3.png)
       
@@ -56,7 +56,7 @@ learning_based.ipynb
       
       ทำการ coppy link path แล้วนำไปวางในส่วนนี้ได้เลย
 
-   * ส่วนของ Testing
+   * ส่วนของ **Testing**
   
       ![image](https://user-images.githubusercontent.com/57053814/119268273-66848880-bc1c-11eb-973a-278580637239.png)
       
