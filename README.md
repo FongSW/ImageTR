@@ -18,7 +18,7 @@ handcraft_based.ipynb
 ### วิธีการเปลี่ยนรูป Dataset
    * ส่วนของ Training
       
-      ![image](https://user-images.githubusercontent.com/56358092/119255026-b5fa9280-bbe3-11eb-9592-77b8e9c05730.png)
+      ![image](https://user-images.githubusercontent.com/56358092/119257555-f19b5980-bbef-11eb-889d-63e0b372f6f0.png)
       
       ให้ทำการวาง path ของ Folder รูปภาพ(Tr) ที่อยู่ใน Google Drive มาใส่แทน path ของเดิม => /content/drive/MyDrive/ImgRecPJ2/Tr/
    * ส่วนของ Testing
