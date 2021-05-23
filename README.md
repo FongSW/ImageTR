@@ -12,7 +12,11 @@
 ```
   ต้องเปิดด้วย Google Colab โดยสร้างเป็น Folder ใน Google Drive ที่เก็บตัวไฟล์ handcraft_based.ipynb และ Folder Tr ที่เป็น Training image ไว้ด้วยกัน
   
-  
+handcraft_based.ipynb จะมี 2 ส่วนหลักๆ คือ
+   * Training - 
+   * Testing - ใช้ K-Nearest Neighbors รู้จำภาพอักษร เมื่อ Run เสร็จจะแสดงการคำตอบในรูปแบบ Answer is [เลขของคลาสตัวอักษร]
+ 
+ 
   กลุ่มเราใช้ K-Nearest Neighbors รู้จำภาพอักษร  จึงทำให้ข้อมูลไม่ต้อง Train ก่อน Test ข้อมูล
 วิธีรัน Code
 
