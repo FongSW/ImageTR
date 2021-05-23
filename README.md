@@ -13,8 +13,8 @@ handcraft_based.ipynb
   ต้องเปิดด้วย Google Colab โดยสร้างเป็น Folder ใน Google Drive เพื่อเก็บตัวไฟล์ handcraft_based.ipynb และ Folder Tr ที่เป็น Training image ไว้ด้วยกันและทำการ Mount Google Colab กับ Google Drive ที่ทำการเก็บไฟล์ Project 2
   
 โดยในไฟล์ handcraft_based.ipynb จะมี 2 ส่วนหลักๆ 
-   * Training - ใช้ HOG และ Radon ในการทำ Feature Extraction เมื่อ Run เสร็จ Progress Bar จะเป็น 100%
-   * Testing - ใช้ K-Nearest Neighbors รู้จำภาพอักษร เมื่อ Run เสร็จจะแสดงการคำตอบในรูปแบบ Answer is [เลขของคลาสตัวอักษร]
+   * หัวข้อ Training - ใช้ HOG และ Radon ในการทำ Feature Extraction เมื่อ Run เสร็จ Progress Bar จะเป็น 100%
+   * หัวข้อ Testing - ใช้ K-Nearest Neighbors รู้จำภาพอักษร เมื่อ Run เสร็จจะแสดงการคำตอบในรูปแบบ Answer is [เลขของคลาสตัวอักษร]
 ### วิธีการเปลี่ยนรูป Dataset
    * ส่วนของ Training
       
