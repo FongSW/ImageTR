@@ -20,6 +20,8 @@
       
       ![image](https://user-images.githubusercontent.com/56358092/119255026-b5fa9280-bbe3-11eb-9592-77b8e9c05730.png)
       
-      ให้ทำการวาง path ของ Folder รูปภาพ(Tr) ที่อยู่ใน Google Drive มากใส่แทน path ของเดิม => /content/drive/MyDrive/ImgRecPJ2/Tr/
+      ให้ทำการวาง path ของ Folder รูปภาพ(Tr) ที่อยู่ใน Google Drive มาใส่แทน path ของเดิม => /content/drive/MyDrive/ImgRecPJ2/Tr/
    * ส่วนของ Testing
+      ![image](https://user-images.githubusercontent.com/56358092/119257064-dc253000-bbed-11eb-9686-45e696cc9545.png) 
+      ให้ทำการวาง path ใหม่ของรูปภาพที่ต้องการจะทดสอบ มาใส่แทน path ของเดิม => '/content/drive/MyDrive/ImgRecPJ2/ซ.png'
 
