@@ -36,7 +36,7 @@ learning_based.ipynb
 ```
   ต้องเปิดด้วย Google Colab โดยสร้างเป็น Folder ใน Google Drive เพื่อเก็บตัวไฟล์ learning_based.ipynb และ Folder Tr ที่เป็น Training image ไว้ด้วยกันและทำการ Mount Google Colab กับ Google Drive ที่ทำการเก็บไฟล์ Project 3
   
-โดยในไฟล์ learning_based.ipynb จะมี 2 ส่วนหลักๆ 
+โดยในไฟล์ learning_based.ipynb จะมี 8 ส่วน 
    * Import Library : ทำการ import library ที่สำคัญต่อการทำงาน
    * Data Loader : ทำการ Load dataset เข้ามาในระบบและปรับขนาดให้เป็น 128x128 (Gray scale)
    * Training & Validating Set Generation: ทำการแปลง format รูปภาพให้สามารถทำงานร่วมกับ pytorch และแบ่งข้อมูลสำหรับการสอน Model 90%
@@ -58,7 +58,11 @@ learning_based.ipynb
 
    * ส่วนของ Testing
   
-      ![image](https://user-images.githubusercontent.com/56358092/119257064-dc253000-bbed-11eb-9686-45e696cc9545.png) 
+      ![image](https://user-images.githubusercontent.com/57053814/119268273-66848880-bc1c-11eb-973a-278580637239.png)
       
-      ให้ทำการวาง path ใหม่ของรูปภาพที่ต้องการจะทดสอบ มาใส่แทน path ของเดิม => '/content/drive/MyDrive/ImgRecPJ2/ซ.png'
+      เข้าไปที่ Executing Model with Testing Image (โค้ดในส่วนนี้เบื้องต้นจะถูกคอมเมนต์ไว้ก่อนและจะรันหลังจากที่ทำการ train model เรียบร้อยแล้ว)
+      
+      ![image](https://user-images.githubusercontent.com/57053814/119268305-8a47ce80-bc1c-11eb-91c4-9c1838e2f5a2.png)
+
+      ทำการ coppy link path แล้วนำไปวางในส่วนนี้ได้เลย
 
