@@ -7,8 +7,9 @@
 4. นาย สิริปกรณ์ วรวสุนธรา 62070280
 ## Project 2: Handcraft _base :)
 ### วิธี Run Code
-  *python handcraft_based.ipynb*
-  
+```
+  python handcraft_based.ipynb
+```
   
   
   
