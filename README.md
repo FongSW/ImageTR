@@ -37,7 +37,7 @@ learning_based.ipynb
   ต้องเปิดด้วย Google Colab โดยสร้างเป็น Folder ใน Google Drive เพื่อเก็บตัวไฟล์ learning_based.ipynb และ Folder Tr ที่เป็น Training image ไว้ด้วยกันและทำการ Mount Google Colab กับ Google Drive ที่ทำการเก็บไฟล์ Project 3
   
 โดยในไฟล์ learning_based.ipynb จะมี 2 ส่วนหลักๆ 
-* CNN Model - ในส่วนนี้จะเป็นส่วนของโครงสร้างการสัด feature 
+   * CNN Model - ในส่วนนี้จะเป็นส่วนของโครงสร้างการสัด feature 
    * Training -  Feature Extraction เมื่อ Run เสร็จ Progress Bar จะเป็น 100%
    * Testing - ใช้ K-Nearest Neighbors รู้จำภาพอักษร เมื่อ Run เสร็จจะแสดงการคำตอบในรูปแบบ Answer is [เลขของคลาสตัวอักษร]
 ### วิธีการเปลี่ยนรูป Dataset
