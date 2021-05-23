@@ -50,7 +50,12 @@ learning_based.ipynb
       
       ![image](https://user-images.githubusercontent.com/57053814/119268046-4f916680-bc1b-11eb-9969-61df771f2ea3.png)
       
-      ให้ทำการวาง path ของ Folder รูปภาพ(Tr) ที่อยู่ใน Google Drive มาใส่แทน path ของเดิม => /content/drive/MyDrive/ImgRecPJ2/Tr/
+      เข้าไปที่ Data Loader
+      
+      ![image](https://user-images.githubusercontent.com/57053814/119268147-d6464380-bc1b-11eb-919e-c27f91f8c0e9.png)
+      
+      ทำการ coppy link path แล้วนำไปวางในส่วนนี้ได้เลย
+
    * ส่วนของ Testing
   
       ![image](https://user-images.githubusercontent.com/56358092/119257064-dc253000-bbed-11eb-9686-45e696cc9545.png) 
