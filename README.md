@@ -37,7 +37,8 @@ handcraft_based.ipynb
 ```
 learning_based.ipynb
 ```
-  ต้องเปิดด้วย **Google Colab** โดยสร้างเป็น Folder ใน **Google Drive** เพื่อเก็บตัวไฟล์ **learning_based.ipynb** และ Folder Tr ที่เป็น Training image ไว้ด้วยกันและทำการ Mount Google Colab กับ Google Drive ที่ทำการเก็บไฟล์ Project 3
+  ต้องเปิดด้วย **Google Colab** โดยสร้างเป็น Folder ใน **Google Drive** เพื่อเก็บตัวไฟล์ **learning_based.ipynb** และ Folder Tr ที่เป็น Training image ไว้ด้วยกันและทำการ Mount Google Colab กับ Google Drive ที่ทำการเก็บไฟล์ Project 3 \
+(Preview: https://colab.research.google.com/drive/1SNrJnpt_4jKkcmYD8pKNF-czwVLlvype?usp=sharing)
   
 โดยในไฟล์ **learning_based.ipynb** จะมี 8 ส่วน 
    * **Import Library** : ทำการ import library ที่สำคัญต่อการทำงาน
